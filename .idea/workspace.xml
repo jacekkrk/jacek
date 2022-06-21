@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81d0bd34-fcbe-4483-8882-1675d0df4af6" name="Changes" comment="stop inflacji">
+    <list default="true" id="81d0bd34-fcbe-4483-8882-1675d0df4af6" name="Changes" comment="do analizy">
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/Matrioszka.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/javaStart/inflacjaKrajowaPo2050Roku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaStart/inflacjaKrajowaPo2050Roku.java" afterDir="false" />
     </list>
@@ -33,17 +34,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "project.scopes"
   }
-}</component>
-  <component name="RunManager" selected="Application.inflacjaKrajowaPo2050Roku">
+}]]></component>
+  <component name="RunManager" selected="Application.Matrioszka">
     <configuration name="BigData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaStart.BigData" />
       <module name="JacaAcademy" />
@@ -57,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaStart.Main" />
+    <configuration name="Matrioszka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaStart.Matrioszka" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Matrioszka" />
+        <item itemvalue="Application.ustawPunkt" />
         <item itemvalue="Application.inflacjaKrajowaPo2050Roku" />
         <item itemvalue="Application.BigData" />
         <item itemvalue="Application.korpo" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ustawPunkt" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655270111999</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="do analizy">
+      <created>1655553529782</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655553529782</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,17 +168,27 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="last" />
     <MESSAGE value="stop inflacji" />
-    <option name="LAST_COMMIT_MESSAGE" value="stop inflacji" />
+    <MESSAGE value="do analizy" />
+    <option name="LAST_COMMIT_MESSAGE" value="do analizy" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/javaStart/inflacjaKrajowaPo2050Roku.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
+          <line>21</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/javaStart/ustawPunkt.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

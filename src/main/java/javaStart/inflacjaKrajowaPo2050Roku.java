@@ -5,21 +5,22 @@ import java.util.OptionalInt;
 import java.util.Scanner;
 
 public class inflacjaKrajowaPo2050Roku {
-        public static boolean isVowel(char ch) {
-                char[] vowels = {'A', 'E', 'I', 'O', 'U'};
-                char character = Character.toUpperCase(ch);
-                for (char x: vowels) {
-                        if (x == character) {
-                                return true;
-                        }
-                }
-                return false;
-        }
 
-        /* Do not change code below */
-        public static void main(String[] args) {
-                Scanner scanner = new Scanner(System.in);
-                char letter = scanner.nextLine().charAt(0);
-                System.out.println(isVowel(letter) ? "YES" : "NO");
+                public static int getNumberOfMaxParam(int a, int b, int c) {
+                        int max = Math.max(a, Math.max(b,c));
+
+                        return  max == a ? 1 : max == b ? 2 : 3 ;
+
+                }
+
+                public static void main(String[] args) {
+
+                        Scanner scanner = new Scanner(System.in);
+
+                        final int a = scanner.nextInt();
+                        final int b = scanner.nextInt();
+                        final int c = scanner.nextInt();
+
+                        System.out.println(getNumberOfMaxParam(a, b, c));
+                }
         }
-}
