@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81d0bd34-fcbe-4483-8882-1675d0df4af6" name="Changes" comment="do analizy">
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/Matrioszka.java" afterDir="false" />
+    <list default="true" id="81d0bd34-fcbe-4483-8882-1675d0df4af6" name="Changes" comment="rotation right">
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/MacierzPobieranieDanychSpacja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/SumArreyNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaStart/inflacjaKrajowaPo2050Roku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaStart/inflacjaKrajowaPo2050Roku.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +45,9 @@
     "settings.editor.selected.configurable": "project.scopes"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Matrioszka">
-    <configuration name="BigData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaStart.BigData" />
+  <component name="RunManager" selected="Application.MacierzPobieranieDanychSpacja">
+    <configuration name="MacierzPobieranieDanychSpacja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaStart.MacierzPobieranieDanychSpacja" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="inflacjaKrajowaPo2050Roku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaStart.inflacjaKrajowaPo2050Roku" />
+    <configuration name="SumArreyNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaStart.SumArreyNumbers" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="korpo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaStart.korpo" />
+    <configuration name="inflacjaKrajowaPo2050Roku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaStart.inflacjaKrajowaPo2050Roku" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MacierzPobieranieDanychSpacja" />
+        <item itemvalue="Application.SumArreyNumbers" />
         <item itemvalue="Application.Matrioszka" />
         <item itemvalue="Application.ustawPunkt" />
         <item itemvalue="Application.inflacjaKrajowaPo2050Roku" />
-        <item itemvalue="Application.BigData" />
-        <item itemvalue="Application.korpo" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655553529782</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="rotation right">
+      <created>1655814270175</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655814270175</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,7 +176,8 @@
     <MESSAGE value="last" />
     <MESSAGE value="stop inflacji" />
     <MESSAGE value="do analizy" />
-    <option name="LAST_COMMIT_MESSAGE" value="do analizy" />
+    <MESSAGE value="rotation right" />
+    <option name="LAST_COMMIT_MESSAGE" value="rotation right" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
