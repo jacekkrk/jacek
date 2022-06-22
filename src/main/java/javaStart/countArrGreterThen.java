@@ -3,7 +3,7 @@ package javaStart;
 import java.util.Scanner;
 
 public class countArrGreterThen {
-    public static void main(String[] args) {
+    public static void main(testString[] args) {
         // put your code here
         final var scanner = new Scanner(System.in);
         final var n = scanner.nextInt();
@@ -18,7 +18,6 @@ public class countArrGreterThen {
 
         }
 
-      System.out.println(count);
 
 
     }

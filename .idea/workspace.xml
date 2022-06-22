@@ -4,9 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81d0bd34-fcbe-4483-8882-1675d0df4af6" name="Changes" comment="arrey cdn">
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/countArrGreterThen.java" afterDir="false" />
+    <list default="true" id="81d0bd34-fcbe-4483-8882-1675d0df4af6" name="Changes" comment="next arre">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/testString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaStart/MacierzPobieranieDanychSpacja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaStart/MacierzPobieranieDanychSpacja.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaStart/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaStart/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaStart/Matrioszka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaStart/Matrioszka.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaStart/SumArreyNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaStart/SumArreyNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaStart/countArrGreterThen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaStart/countArrGreterThen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaStart/inflacjaKrajowaPo2050Roku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaStart/inflacjaKrajowaPo2050Roku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaStart/korpo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaStart/korpo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaStart/ustawPunkt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaStart/ustawPunkt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,19 +42,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "project.scopes"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.countArrGreterThen">
-    <configuration name="MacierzPobieranieDanychSpacja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="Application.testString">
+    <configuration name="javaStart.MacierzPobieranieDanychSpacja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaStart.MacierzPobieranieDanychSpacja" />
       <module name="JacaAcademy" />
       <extension name="coverage">
@@ -58,7 +68,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Matrioszka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="javaStart.Matrioszka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaStart.Matrioszka" />
       <module name="JacaAcademy" />
       <extension name="coverage">
@@ -71,7 +81,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumArreyNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="javaStart.SumArreyNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaStart.SumArreyNumbers" />
       <module name="JacaAcademy" />
       <extension name="coverage">
@@ -84,7 +94,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="countArrGreterThen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="javaStart.countArrGreterThen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaStart.countArrGreterThen" />
       <module name="JacaAcademy" />
       <extension name="coverage">
@@ -97,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ustawPunkt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaStart.ustawPunkt" />
+    <configuration name="testString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaStart.testString" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.countArrGreterThen" />
-        <item itemvalue="Application.MacierzPobieranieDanychSpacja" />
-        <item itemvalue="Application.SumArreyNumbers" />
-        <item itemvalue="Application.Matrioszka" />
-        <item itemvalue="Application.ustawPunkt" />
+        <item itemvalue="Application.testString" />
+        <item itemvalue="Application.javaStart.SumArreyNumbers" />
+        <item itemvalue="Application.javaStart.countArrGreterThen" />
+        <item itemvalue="Application.javaStart.MacierzPobieranieDanychSpacja" />
+        <item itemvalue="Application.javaStart.Matrioszka" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655892215449</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="next arre">
+      <created>1655893131299</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655893131299</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,14 +201,15 @@
     <MESSAGE value="do analizy" />
     <MESSAGE value="rotation right" />
     <MESSAGE value="arrey cdn" />
-    <option name="LAST_COMMIT_MESSAGE" value="arrey cdn" />
+    <MESSAGE value="next arre" />
+    <option name="LAST_COMMIT_MESSAGE" value="next arre" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/javaStart/inflacjaKrajowaPo2050Roku.java</url>
-          <line>21</line>
+          <line>19</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -205,5 +223,10 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JacaAcademy$javaStart_SumArreyNumbers.ic" NAME="javaStart.SumArreyNumbers Coverage Results" MODIFIED="1655929640077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>javaStart.*</FILTER>
+    </SUITE>
   </component>
 </project>

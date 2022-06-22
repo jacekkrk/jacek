@@ -3,7 +3,7 @@ package javaStart;
 import java.util.Scanner;
 
 public class SumArreyNumbers {
-    public static void main(String[] args) {
+    public static void main(testString[] args) {
         Scanner scanner = new Scanner(System.in);
         int arraySize = scanner.nextInt();
         int[] myArr = new int[arraySize];

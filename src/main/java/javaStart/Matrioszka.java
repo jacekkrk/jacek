@@ -1,10 +1,9 @@
 package javaStart;
 
 import java.util.Arrays;
-import java.util.Scanner;
 
 public class Matrioszka {
-    public static void main(String[] args) {
+    public static void main(testString[] args) {
 
         //int sizeArray = 5;
         int [] filling = {11, 22, 33, 44, 55};

@@ -1,7 +1,5 @@
 package javaStart;
 
-import java.util.Arrays;
-import java.util.OptionalInt;
 import java.util.Scanner;
 
 public class inflacjaKrajowaPo2050Roku {
@@ -13,7 +11,7 @@ public class inflacjaKrajowaPo2050Roku {
 
                 }
 
-                public static void main(String[] args) {
+                public static void main(testString[] args) {
 
                         Scanner scanner = new Scanner(System.in);
 
