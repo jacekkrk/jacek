@@ -4,28 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81d0bd34-fcbe-4483-8882-1675d0df4af6" name="Changes" comment="do poprawy string args">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/Main5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/Main6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/Main7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/Main8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dziedziczenieDwa/BadRequestException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dziedziczenieDwa/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dziedziczenieDwa/MyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dziedziczenieDwa/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/testCar.java" afterDir="false" />
+    <list default="true" id="81d0bd34-fcbe-4483-8882-1675d0df4af6" name="Changes" comment="nowa paczka">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/FileRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/Main10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/Nullek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/Sibling.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dziedziczenie/developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/developer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dziedziczenie/dom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/dom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaStart/testString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaStart/testString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +27,18 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/Wyjatki/FileRead.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Wyjatki/Main2.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Wyjatki/Main3.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Wyjatki/Main4.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Wyjatki/Main5.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Wyjatki/Main6.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Wyjatki/Main7.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Wyjatki/Main8.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Wyjatki/developer.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/javaStart/zatrudnij.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -69,9 +66,9 @@
       <recent name="dziedziczenieDwa" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main8">
-    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Wyjatki.Driver" />
+  <component name="RunManager" selected="Application.Matrix">
+    <configuration name="FileRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wyjatki.FileRead" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Wyjatki.Main4" />
+    <configuration name="Main10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wyjatki.Main10" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Wyjatki.Main5" />
+    <configuration name="Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wyjatki.Matrix" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Wyjatki.Main6" />
+    <configuration name="Nullek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wyjatki.Nullek" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
@@ -122,8 +119,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Wyjatki.Main8" />
+    <configuration name="Sibling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wyjatki.Sibling" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
@@ -137,8 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main8" />
-        <item itemvalue="Application.Driver" />
+        <item itemvalue="Application.Matrix" />
+        <item itemvalue="Application.Nullek" />
+        <item itemvalue="Application.Main10" />
+        <item itemvalue="Application.Sibling" />
+        <item itemvalue="Application.FileRead" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655932797727</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="nowa paczka">
+      <created>1659090359670</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1659090359670</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -222,7 +229,8 @@
     <MESSAGE value="arrey cdn" />
     <MESSAGE value="next arre" />
     <MESSAGE value="do poprawy string args" />
-    <option name="LAST_COMMIT_MESSAGE" value="do poprawy string args" />
+    <MESSAGE value="nowa paczka" />
+    <option name="LAST_COMMIT_MESSAGE" value="nowa paczka" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
