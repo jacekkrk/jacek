@@ -4,18 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81d0bd34-fcbe-4483-8882-1675d0df4af6" name="Changes" comment="next arre">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/testString.java" afterDir="false" />
+    <list default="true" id="81d0bd34-fcbe-4483-8882-1675d0df4af6" name="Changes" comment="do poprawy string args">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/Main5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/Main6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/Main7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/Main8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dziedziczenieDwa/BadRequestException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dziedziczenieDwa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dziedziczenieDwa/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dziedziczenieDwa/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/testCar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaStart/MacierzPobieranieDanychSpacja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaStart/MacierzPobieranieDanychSpacja.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaStart/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaStart/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaStart/Matrioszka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaStart/Matrioszka.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaStart/SumArreyNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaStart/SumArreyNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaStart/countArrGreterThen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaStart/countArrGreterThen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaStart/inflacjaKrajowaPo2050Roku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaStart/inflacjaKrajowaPo2050Roku.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaStart/korpo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaStart/korpo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaStart/ustawPunkt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaStart/ustawPunkt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dziedziczenie/developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/developer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dziedziczenie/dom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/dom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javaStart/testString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaStart/testString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +64,18 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.testString">
-    <configuration name="javaStart.MacierzPobieranieDanychSpacja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaStart.MacierzPobieranieDanychSpacja" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="dziedziczenieDwa" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main8">
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wyjatki.Driver" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaStart.*" />
+          <option name="PATTERN" value="Wyjatki.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaStart.Matrioszka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaStart.Matrioszka" />
+    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wyjatki.Main4" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaStart.*" />
+          <option name="PATTERN" value="Wyjatki.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaStart.SumArreyNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaStart.SumArreyNumbers" />
+    <configuration name="Main5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wyjatki.Main5" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaStart.*" />
+          <option name="PATTERN" value="Wyjatki.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaStart.countArrGreterThen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaStart.countArrGreterThen" />
+    <configuration name="Main6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wyjatki.Main6" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaStart.*" />
+          <option name="PATTERN" value="Wyjatki.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaStart.testString" />
+    <configuration name="Main8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wyjatki.Main8" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaStart.*" />
+          <option name="PATTERN" value="Wyjatki.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +137,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.testString" />
-        <item itemvalue="Application.javaStart.SumArreyNumbers" />
-        <item itemvalue="Application.javaStart.countArrGreterThen" />
-        <item itemvalue="Application.javaStart.MacierzPobieranieDanychSpacja" />
-        <item itemvalue="Application.javaStart.Matrioszka" />
+        <item itemvalue="Application.Main8" />
+        <item itemvalue="Application.Driver" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655893131299</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="do poprawy string args">
+      <created>1655932797727</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655932797727</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,7 +221,8 @@
     <MESSAGE value="rotation right" />
     <MESSAGE value="arrey cdn" />
     <MESSAGE value="next arre" />
-    <option name="LAST_COMMIT_MESSAGE" value="next arre" />
+    <MESSAGE value="do poprawy string args" />
+    <option name="LAST_COMMIT_MESSAGE" value="do poprawy string args" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -216,6 +236,25 @@
           <url>file://$PROJECT_DIR$/src/main/java/javaStart/ustawPunkt.java</url>
           <line>17</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/javaStart/User.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/javaStart/User.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/javaStart/Car.java</url>
+          <line>8</line>
+          <properties class="javaStart.Car" method="accelerate">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

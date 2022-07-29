@@ -1,4 +1,4 @@
-package dziedziczenie;
+package Wyjatki;
 
 public class dom implements developer {
 

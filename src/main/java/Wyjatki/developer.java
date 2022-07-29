@@ -1,4 +1,4 @@
-package dziedziczenie;
+package Wyjatki;
 
 public interface developer {
 

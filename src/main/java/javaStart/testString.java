@@ -1,21 +1,19 @@
 package javaStart;
 
+import javax.sound.midi.Soundbank;
 import java.util.Scanner;
 
 public class testString {
 
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        String Text = "Java";
-        int i = scanner.nextInt();
-        int j = scanner.nextInt();
 
-        for (int ix = 0; ix < Text.length(); ix++) {
-            if (ix >= i && ix <= j ) {
-                System.out.print(Text.charAt(ix));
+        public static void main(String[] args) {
+            Scanner scanner = new Scanner(System.in);
+            String textOne = scanner.nextLine();
+            String textTwo  = scanner.nextLine();
+            String textOneN = textOne.replace(" ", "");
+            String textTwoN = textTwo.replace(" ", "");
+            System.out.println(textOneN.contains(textTwoN));
 
 
-            }
-            }
         }
     }
