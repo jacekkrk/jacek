@@ -10,20 +10,12 @@ public class Matrix {
         int [] [] myArr = new int [k] [k];
         for (int i  = 0; i < myArr.length; i++) {
             for (int z = 0; z < myArr[i].length; z++) {
-
-
                myArr[i][z] = Math.abs(i - z);
-
-
-                System.out.print(myArr[i][z] + " " );
-
-                }
+               System.out.print(myArr[i][z] + " " );
+            }
             System.out.println();
-
             }
         }
-
-
     }
 
 
