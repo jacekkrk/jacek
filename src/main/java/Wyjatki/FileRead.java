@@ -4,6 +4,9 @@ import javax.annotation.processing.SupportedSourceVersion;
 import java.io.File;
 
 public class FileRead {
+    public FileRead(String s) {
+    }
+
     public static void main(String[] args) {
         File file = new File("/Users/KubaG/OneDrive/Dokumenty/JavaGit/TestRepo/JacaAcademy/src/main/java/Wyjatki/myfile.txt");
         System.out.println("File name: " + file.getName());
