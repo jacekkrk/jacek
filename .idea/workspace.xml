@@ -5,19 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81d0bd34-fcbe-4483-8882-1675d0df4af6" name="Changes" comment="matrix">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/NewUserCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/WriteUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/ZapisPliku.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sklep/AddStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sklep/CheckStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sklep/Gtravel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sklep/MTB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sklep/Road.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Wyjatki/Main1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Wyjatki/Main3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/ArreyProtectExepction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/Main13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bank/readProductId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sklep/Dyrektor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sklep/FirstInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sklep/Osoba.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Wyjatki/FileRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/FileRead.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sklep/AddStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sklep/AddStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -63,20 +58,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "project.scopes"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="dziedziczenieDwa" />
@@ -88,9 +83,22 @@
       <recent name="Wyjatki" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Gtravel">
-    <configuration name="Bike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sklep.Bike" />
+  <component name="RunManager" selected="Application.Main13">
+    <configuration name="ArreyProtectExepction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wyjatki.ArreyProtectExepction" />
+      <module name="JacaAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Wyjatki.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckerIntrface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sklep.CheckerIntrface" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
@@ -115,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Wyjatki.Matrix" />
+    <configuration name="Main13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wyjatki.Main13" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
@@ -128,25 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewUserCreator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Wyjatki.NewUserCreator" />
+    <configuration name="readProductId" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bank.readProductId" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Wyjatki.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ZapisPliku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Wyjatki.ZapisPliku" />
-      <module name="JacaAcademy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Wyjatki.*" />
+          <option name="PATTERN" value="bank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main13" />
+        <item itemvalue="Application.readProductId" />
+        <item itemvalue="Application.ArreyProtectExepction" />
+        <item itemvalue="Application.CheckerIntrface" />
         <item itemvalue="Application.Gtravel" />
-        <item itemvalue="Application.Bike" />
-        <item itemvalue="Application.NewUserCreator" />
-        <item itemvalue="Application.ZapisPliku" />
-        <item itemvalue="Application.Matrix" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659181067245</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="matrix">
+      <created>1659336024432</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1659336024432</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -13,8 +13,6 @@ public class AddStack {
             wr.close();
             return true;
         } catch (IOException e) {
-            System.out.println("blad");;
-
             return false;
         }
 
