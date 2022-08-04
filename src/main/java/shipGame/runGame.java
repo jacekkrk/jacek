@@ -1,5 +1,7 @@
 package shipGame;
 
+import java.lang.reflect.Array;
+import java.util.Arrays;
 import java.util.Scanner;
 
 import static javax.print.attribute.standard.MediaSizeName.B;
@@ -11,23 +13,20 @@ public class runGame {
 
     public static void main(String[] args) {
         int battleSize = 10;
-        char[] [] battleFiled = new char[battleSize + 1] [battleSize + 1];
-        char[] menuUp = new char[] {'A','B','C','D','E','F','G','H','I','J','K'};
+        String[] [] battleFiled = new String[battleSize] [battleSize];
+        String[] menuLeft = new String[] {"A","B","C","D","E","F","G","H","I","J"};
+        String[] menuUp = new String[] {"1","2","3","4","5","6","7","8","9","10"};
         Scanner addShip = new Scanner(System.in);
+
+
 
 // Create field
         for(int i = 0; i < battleFiled.length; i++) {
-            battleFiled[i][0] = (char)i;
-           //     battleFiled[i][0] = menuUp[i];
-        //    ii = (char)ii;
-   //         battleFiled[i][0] = (char)ii + '1';
-            for(int k = 1; k < battleFiled.length; k++) {
 
-                battleFiled[i][k] = '~';
-                    }
-
-            }
+           for(int k = 0; k < battleFiled.length; k++) {
+               battleFiled[i][k] = "~";
+           }
         }
-
     }
+}
 
