@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81d0bd34-fcbe-4483-8882-1675d0df4af6" name="Changes" comment="matrix">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/ArreyProtectExepction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/Main13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bank/readProductId.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sklep/Dyrektor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sklep/FirstInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sklep/Osoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/Main14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/Main15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/Spr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/WycinanieSpacji.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/shipGame/runGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sklep/AddStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sklep/AddStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Wyjatki/Main13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Wyjatki/Main13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,13 +79,16 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jgrzybowski\IdeaProjects\jacekGit\src\main\java" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="Wyjatki" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main13">
-    <configuration name="ArreyProtectExepction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Wyjatki.ArreyProtectExepction" />
+  <component name="RunManager" selected="Application.runGame">
+    <configuration name="Main14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wyjatki.Main14" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
@@ -97,34 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckerIntrface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sklep.CheckerIntrface" />
-      <module name="JacaAcademy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sklep.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Gtravel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sklep.Gtravel" />
-      <module name="JacaAcademy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sklep.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Wyjatki.Main13" />
+    <configuration name="Main15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wyjatki.Main15" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
@@ -136,12 +113,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="readProductId" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bank.readProductId" />
+    <configuration name="Spr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wyjatki.Spr" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bank.*" />
+          <option name="PATTERN" value="Wyjatki.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WycinanieSpacji" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wyjatki.WycinanieSpacji" />
+      <module name="JacaAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Wyjatki.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="runGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shipGame.runGame" />
+      <module name="JacaAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="shipGame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main13" />
-        <item itemvalue="Application.readProductId" />
-        <item itemvalue="Application.ArreyProtectExepction" />
-        <item itemvalue="Application.CheckerIntrface" />
-        <item itemvalue="Application.Gtravel" />
+        <item itemvalue="Application.runGame" />
+        <item itemvalue="Application.Spr" />
+        <item itemvalue="Application.WycinanieSpacji" />
+        <item itemvalue="Application.Main15" />
+        <item itemvalue="Application.Main14" />
       </list>
     </recent_temporary>
   </component>
@@ -294,6 +297,41 @@
           <line>45</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Wyjatki/Main13.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Wyjatki/Main13.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Wyjatki/Main13.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Wyjatki/Main14.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Wyjatki/Main14.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Wyjatki/Main15.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/shipGame/runGame.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/javaStart/Car.java</url>
           <line>8</line>
@@ -303,6 +341,10 @@
           </properties>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.NoSuchElementException" package="java.util" />
+          <option name="timeStamp" value="18" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -313,6 +355,9 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JacaAcademy$javaStart_SumArreyNumbers.ic" NAME="javaStart.SumArreyNumbers Coverage Results" MODIFIED="1655929640077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>javaStart.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/jacekGit$runGame.ic" NAME="runGame Coverage Results" MODIFIED="1659625980579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>shipGame.*</FILTER>
     </SUITE>
   </component>
 </project>

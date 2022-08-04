@@ -12,18 +12,20 @@ class Main13 {
         // start coding here
         int readNumber = reader.read();
         int i = 0;
+        char [] zapisz = new char[50];
         while (readNumber!= -1) {
             char uncrypt = (char)readNumber;
-            System.out.print(uncrypt);
-            readNumber = reader.read();
+            zapisz[i] = uncrypt;
             i++;
-
+            readNumber = reader.read();
+        }
+        i -=1;
+        for (int k = i ; k <= i ; k-- ) {
+            System.out.print(zapisz[k]);
+            if( k == 0) {
+                break;
+            }
         }
         reader.close();
-        System.out.println(i);
-
-
-
-
     }
 }
