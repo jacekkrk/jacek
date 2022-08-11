@@ -249,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659626591078</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="shipGameStartProject">
+      <created>1659630734141</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1659630734141</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -331,8 +338,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/shipGame/runGame.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="24" />
+          <line>94</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/shipGame/runGame.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/javaStart/Car.java</url>
@@ -352,6 +364,10 @@
     <watches-manager>
       <configuration name="Application">
         <watch expression="menuLeft" />
+        <watch expression="menuLeft[9]" />
+        <watch expression="getedStartPiont[1]" language="JAVA" />
+        <watch expression="this" />
+        <watch expression="battleFiled[0]" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
