@@ -23,6 +23,7 @@ public class runGame {
         playGame.showField();
         playGame.addShip();
 
+
     }
 
     // Create field
@@ -92,15 +93,22 @@ public class runGame {
 
     void setShipOnField (int[] startPoint, int[] endPoint) {
 
-        if (true) {
+        if (endPoint[0] == startPoint[0]) {
             System.out.println("tu");
-            for( int k = 0 ;k < (endPoint[1] - startPoint[1]); k++ ) {
+            for( int k = 0 ;k <= (endPoint[1] - startPoint[1]); k++ ) {
                 battleFiled[0][startPoint[1] + k] = "0 ";
                 System.out.println(k);
             }
-            showField();
         }
+        else if (endPoint[1] == startPoint[1]) {
+                System.out.println("tu");
+                for( int k = 0 ;k <= (endPoint[0] - startPoint[0]); k++ ) {
+                    battleFiled[startPoint[0] + k] [1]= "0 ";
+                    System.out.println(k);
+                }
 
+        }
+        showField();
     }
 }
 

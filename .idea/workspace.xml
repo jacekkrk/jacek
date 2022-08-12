@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81d0bd34-fcbe-4483-8882-1675d0df4af6" name="Changes" comment="shipGameStartProject">
+    <list default="true" id="3a54b9fe-f893-42b5-8059-703a11b5ad66" name="Changes" comment="shipGameStartProject">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/shipGame/runGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shipGame/runGame.java" afterDir="false" />
     </list>
@@ -256,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659630734141</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="shipGameStartProject">
+      <created>1660276101587</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1660276101587</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -338,12 +345,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/shipGame/runGame.java</url>
-          <line>94</line>
+          <line>95</line>
           <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/shipGame/runGame.java</url>
-          <line>96</line>
+          <line>97</line>
           <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
