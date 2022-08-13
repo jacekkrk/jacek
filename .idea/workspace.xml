@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a54b9fe-f893-42b5-8059-703a11b5ad66" name="Changes" comment="shipGameStartProject">
+    <list default="true" id="81d0bd34-fcbe-4483-8882-1675d0df4af6" name="Changes" comment="Class constructor review">
+      <change afterPath="$PROJECT_DIR$/src/main/java/shipGame/battleShip.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/shipGame/runGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shipGame/runGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bank/Employee .java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bank/Employee .java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Wyjatki/Main1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Wyjatki/Main1Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,20 +82,7 @@
       <recent name="Wyjatki" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.runGame">
-    <configuration name="Main14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Wyjatki.Main14" />
-      <module name="JacaAcademy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Wyjatki.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.battleShip">
     <configuration name="Main15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Wyjatki.Main15" />
       <module name="JacaAcademy" />
@@ -133,6 +122,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="battleShip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shipGame.battleShip" />
+      <module name="JacaAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="shipGame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="runGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="shipGame.runGame" />
       <module name="JacaAcademy" />
@@ -148,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.battleShip" />
         <item itemvalue="Application.runGame" />
         <item itemvalue="Application.Spr" />
         <item itemvalue="Application.WycinanieSpacji" />
         <item itemvalue="Application.Main15" />
-        <item itemvalue="Application.Main14" />
       </list>
     </recent_temporary>
   </component>
@@ -249,19 +251,19 @@
       <option name="project" value="LOCAL" />
       <updated>1659626591078</updated>
     </task>
-    <task id="LOCAL-00013" summary="shipGameStartProject">
-      <created>1659630734141</created>
+    <task id="LOCAL-00013" summary="Field done">
+      <created>1659879329740</created>
       <option name="number" value="00013" />
       <option name="presentableId" value="LOCAL-00013" />
       <option name="project" value="LOCAL" />
-      <updated>1659630734141</updated>
+      <updated>1659879329740</updated>
     </task>
-    <task id="LOCAL-00014" summary="shipGameStartProject">
-      <created>1660276101587</created>
+    <task id="LOCAL-00014" summary="Class constructor review">
+      <created>1660072462508</created>
       <option name="number" value="00014" />
       <option name="presentableId" value="LOCAL-00014" />
       <option name="project" value="LOCAL" />
-      <updated>1660276101587</updated>
+      <updated>1660072462508</updated>
     </task>
     <option name="localTasksCounter" value="15" />
     <servers />
@@ -288,7 +290,9 @@
     <MESSAGE value="nowa paczka" />
     <MESSAGE value="matrix" />
     <MESSAGE value="shipGameStartProject" />
-    <option name="LAST_COMMIT_MESSAGE" value="shipGameStartProject" />
+    <MESSAGE value="Field done" />
+    <MESSAGE value="Class constructor review" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class constructor review" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -344,14 +348,14 @@
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/shipGame/runGame.java</url>
-          <line>95</line>
-          <option name="timeStamp" value="54" />
+          <url>file://$PROJECT_DIR$/src/main/java/shipGame/battleShip.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/shipGame/runGame.java</url>
-          <line>97</line>
-          <option name="timeStamp" value="55" />
+          <url>file://$PROJECT_DIR$/src/main/java/shipGame/battleShip.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/javaStart/Car.java</url>
@@ -371,10 +375,6 @@
     <watches-manager>
       <configuration name="Application">
         <watch expression="menuLeft" />
-        <watch expression="menuLeft[9]" />
-        <watch expression="getedStartPiont[1]" language="JAVA" />
-        <watch expression="this" />
-        <watch expression="battleFiled[0]" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
@@ -383,11 +383,11 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/JacaAcademy$javaStart_SumArreyNumbers.ic" NAME="javaStart.SumArreyNumbers Coverage Results" MODIFIED="1655929640077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>javaStart.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/jacekGit$runGame.ic" NAME="runGame Coverage Results" MODIFIED="1659625980579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>shipGame.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JacaAcademy$javaStart_SumArreyNumbers.ic" NAME="javaStart.SumArreyNumbers Coverage Results" MODIFIED="1655929640077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>javaStart.*</FILTER>
     </SUITE>
   </component>
 </project>

@@ -20,6 +20,9 @@ class Developer extends Employee {
 
     String mainLanguage, skills;
 
+    void Developer() {
+        super.email = email;
+    }
     // write constructor
 
     // write getters

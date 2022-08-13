@@ -8,7 +8,6 @@ class Main1Test {
     @Test
     void myFirsttest() {
         Main1 mojPierwszytest = new Main1();
-       mojPierwszytest.
 
 
     }
