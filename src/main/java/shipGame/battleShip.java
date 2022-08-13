@@ -6,20 +6,32 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 
 import static java.lang.System.*;
+import static jdk.internal.org.jline.utils.Colors.C;
 
 public class battleShip {
     public static void main(String[] args) {
 
-        int nShip = 1;
+        int nShip = 2;
         int battleFiledSize = 10;
-        char water = '`';
+        char water = '~';
         char ship = 'o';
         char miss = 'm';
         char shot = 'x';
 
         char[][] gameBoard = creatGame(battleFiledSize, water, nShip, ship);
-        out.println(gameBoard[0][0]);
+        showBoard(battleFiledSize, gameBoard);
 
+
+    }
+
+    private static void showBoard(int batelFiledSize, char[] [] gameBoad) {
+        for(int row = 0 ; row < batelFiledSize; row++) {
+            for(int col = 0; col < batelFiledSize; col++) {
+                out.printf("%c ", gameBoad[row][col] );
+
+            }
+            out.println();
+        }
 
     }
 
@@ -37,18 +49,23 @@ public class battleShip {
         int shipAdd = 0;
 
 
-        while (shipAdd < nShip){
+        while (shipAdd < nShip) {
             int [] getCordinate = userGet();
-
-
-                if(getCordinate[0] == getCordinate[2])
+            int startX = getCordinate[1];
+                if(getCordinate[0] == getCordinate[2]) {
                     //ship horizontal
+
                     for (int i = 0; i <= (getCordinate[3] - getCordinate[1]); i++) {
-                        gameBoard[0][getCordinate[i+ getCordinate[1]]] = ship;
-                        out.println("bum");
+                        gameBoard[getCordinate[0]][startX + i] = ship;
+                    }
+                }
+            int startY = getCordinate[0];
+            if(getCordinate[1] == getCordinate[3]) {
+                //ship VERTICAL
+                for (int i = 0; i <= (getCordinate[2] - getCordinate[0]); i++) {
+                    gameBoard[startY + i][getCordinate[1]] = ship;
+                }
             }
-
-
 
             shipAdd++;
         }
@@ -64,15 +81,16 @@ public class battleShip {
         while (next != -1  & i < cordinate.length ) {
             if(next == 32) {
                 next = kr.read();
+                out.println();;
                 continue;
             }
             if(i == 0 | i == 2) {
                 cordinate[i] = next - 65;
-                out.println(cordinate[i]);
+                out.print(cordinate[i]);
             }
             if(i == 1 | i ==3) {
                 cordinate[i] = next - 49;
-                out.println(cordinate[i]);
+                out.print(cordinate[i]);
             }
             next = kr.read();
 
@@ -84,7 +102,7 @@ public class battleShip {
     catch (Exception e) {
         out.println(e.getMessage());
     }
-
+        out.println();
     return cordinate;
     }
 
