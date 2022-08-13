@@ -84,10 +84,18 @@ public class battleShip {
                 out.println();;
                 continue;
             }
+            if ( next == 64 ) {
+                cordinate[i] = 10;
+                next = kr.read();
+                continue;
+            }
+
             if(i == 0 | i == 2) {
                 cordinate[i] = next - 65;
                 out.print(cordinate[i]);
             }
+
+
             if(i == 1 | i ==3) {
                 cordinate[i] = next - 49;
                 out.print(cordinate[i]);
