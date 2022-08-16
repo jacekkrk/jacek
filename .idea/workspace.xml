@@ -4,10 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81d0bd34-fcbe-4483-8882-1675d0df4af6" name="Changes" comment="new version game RANDOM WORKING SHIP PLACMENT">
-      <change afterPath="$PROJECT_DIR$/src/main/java/shipGame/scanerTest.java" afterDir="false" />
+    <list default="true" id="3a54b9fe-f893-42b5-8059-703a11b5ad66" name="Changes" comment="ZLE DODAJE STATKI POZIOMO">
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/inne/DataAnalyst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/inne/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/inne/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/inne/Field.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/inne/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/inne/testClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/shipGame/Field.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/shipGame/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/shipGame/Strzelaj.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/shipGame/battleShip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shipGame/battleShip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shipGame/scanerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shipGame/scanerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +73,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "settings.editor.selected.configurable": "editor.preferences.gutterIcons"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -81,22 +90,9 @@
       <recent name="Wyjatki" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.battleShip">
-    <configuration name="Spr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Wyjatki.Spr" />
-      <module name="JacaAcademy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Wyjatki.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="battleShip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shipGame.battleShip" />
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shipGame.Main" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +104,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shipGame.game" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="JacaAcademy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shipGame.Main" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
@@ -121,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="runGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shipGame.runGame" />
+    <configuration name="javaStart.inne.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaStart.inne.Main" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="shipGame.*" />
+          <option name="PATTERN" value="javaStart.inne.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="scanerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shipGame.scanerTest" />
+    <configuration name="testClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaStart.inne.testClass" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="shipGame.*" />
+          <option name="PATTERN" value="javaStart.inne.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,18 +152,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.battleShip" />
-        <item itemvalue="Application.scanerTest" />
-        <item itemvalue="Application.game" />
-        <item itemvalue="Application.runGame" />
-        <item itemvalue="Application.Spr" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.testClass" />
+        <item itemvalue="Application.javaStart.inne.Main" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="81d0bd34-fcbe-4483-8882-1675d0df4af6" name="Changes" comment="" />
+      <changelist id="3a54b9fe-f893-42b5-8059-703a11b5ad66" name="Changes" comment="ZLE DODAJE STATKI POZIOMO" />
       <created>1654361468910</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -250,35 +253,28 @@
       <option name="project" value="LOCAL" />
       <updated>1659626591078</updated>
     </task>
-    <task id="LOCAL-00013" summary="Field done">
-      <created>1659879329740</created>
+    <task id="LOCAL-00013" summary="shipGameStartProject">
+      <created>1659630734141</created>
       <option name="number" value="00013" />
       <option name="presentableId" value="LOCAL-00013" />
       <option name="project" value="LOCAL" />
-      <updated>1659879329740</updated>
+      <updated>1659630734141</updated>
     </task>
-    <task id="LOCAL-00014" summary="Class constructor review">
-      <created>1660072462508</created>
+    <task id="LOCAL-00014" summary="shipGameStartProject">
+      <created>1660276101587</created>
       <option name="number" value="00014" />
       <option name="presentableId" value="LOCAL-00014" />
       <option name="project" value="LOCAL" />
-      <updated>1660072462508</updated>
+      <updated>1660276101587</updated>
     </task>
-    <task id="LOCAL-00015" summary="new version game">
-      <created>1660404039962</created>
+    <task id="LOCAL-00015" summary="ZLE DODAJE STATKI POZIOMO">
+      <created>1660278128888</created>
       <option name="number" value="00015" />
       <option name="presentableId" value="LOCAL-00015" />
       <option name="project" value="LOCAL" />
-      <updated>1660404039962</updated>
+      <updated>1660278128888</updated>
     </task>
-    <task id="LOCAL-00016" summary="new version game RANDOM WORKING SHIP PLACMENT">
-      <created>1660410672471</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1660410672471</updated>
-    </task>
-    <option name="localTasksCounter" value="17" />
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -303,11 +299,8 @@
     <MESSAGE value="nowa paczka" />
     <MESSAGE value="matrix" />
     <MESSAGE value="shipGameStartProject" />
-    <MESSAGE value="Field done" />
-    <MESSAGE value="Class constructor review" />
-    <MESSAGE value="new version game" />
-    <MESSAGE value="new version game RANDOM WORKING SHIP PLACMENT" />
-    <option name="LAST_COMMIT_MESSAGE" value="new version game RANDOM WORKING SHIP PLACMENT" />
+    <MESSAGE value="ZLE DODAJE STATKI POZIOMO" />
+    <option name="LAST_COMMIT_MESSAGE" value="ZLE DODAJE STATKI POZIOMO" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -363,14 +356,29 @@
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/shipGame/battleShip.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="19" />
+          <url>file://$PROJECT_DIR$/src/main/java/shipGame/runGame.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/shipGame/runGame.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/shipGame/battleShip.java</url>
-          <line>77</line>
-          <option name="timeStamp" value="20" />
+          <line>82</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/shipGame/battleShip.java</url>
+          <line>106</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/shipGame/battleShip.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="61" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/javaStart/Car.java</url>
@@ -387,9 +395,18 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.String" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="menuLeft" />
+        <watch expression="menuLeft[9]" />
+        <watch expression="getedStartPiont[1]" language="JAVA" />
+        <watch expression="this" />
+        <watch expression="battleFiled[0]" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
@@ -398,11 +415,11 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/jacekGit$runGame.ic" NAME="runGame Coverage Results" MODIFIED="1659625980579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>shipGame.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/JacaAcademy$javaStart_SumArreyNumbers.ic" NAME="javaStart.SumArreyNumbers Coverage Results" MODIFIED="1655929640077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>javaStart.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/jacekGit$runGame.ic" NAME="runGame Coverage Results" MODIFIED="1659625980579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>shipGame.*</FILTER>
     </SUITE>
   </component>
 </project>
