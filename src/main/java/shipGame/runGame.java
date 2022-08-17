@@ -40,7 +40,9 @@ public class runGame {
             i++;
         }
             else {
+
                 showField();
+                System.out.println("Error! Wrong length of the Submarine! Try again:");a
             }
         }
 
