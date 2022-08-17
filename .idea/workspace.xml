@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a54b9fe-f893-42b5-8059-703a11b5ad66" name="Changes" comment="ZLE DODAJE STATKI POZIOMO">
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/inne/DataAnalyst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/inne/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/inne/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/inne/Field.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/inne/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/inne/testClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shipGame/Field.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shipGame/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/shipGame/Strzelaj.java" afterDir="false" />
+    <list default="true" id="3a54b9fe-f893-42b5-8059-703a11b5ad66" name="Changes" comment="statki dzialaja">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/shipGame/battleShip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shipGame/battleShip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/shipGame/scanerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shipGame/scanerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shipGame/runGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/shipGame/runGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +63,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "editor.preferences.gutterIcons"
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -90,7 +80,7 @@
       <recent name="Wyjatki" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.runGame">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="shipGame.Main" />
       <module name="JacaAcademy" />
@@ -111,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shipGame.Main" />
+    <configuration name="javaStart.inne.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaStart.inne.Main" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="shipGame.*" />
+          <option name="PATTERN" value="javaStart.inne.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaStart.inne.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaStart.inne.Main" />
+    <configuration name="runGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shipGame.runGame" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaStart.inne.*" />
+          <option name="PATTERN" value="shipGame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.runGame" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.testClass" />
         <item itemvalue="Application.javaStart.inne.Main" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -274,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660278128888</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="ZLE DODAJE STATKI POZIOMO">
+      <created>1660624089894</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1660624089894</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -300,7 +297,8 @@
     <MESSAGE value="matrix" />
     <MESSAGE value="shipGameStartProject" />
     <MESSAGE value="ZLE DODAJE STATKI POZIOMO" />
-    <option name="LAST_COMMIT_MESSAGE" value="ZLE DODAJE STATKI POZIOMO" />
+    <MESSAGE value="statki dzialaja" />
+    <option name="LAST_COMMIT_MESSAGE" value="statki dzialaja" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -354,16 +352,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/Wyjatki/Main15.java</url>
           <line>2</line>
           <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/shipGame/runGame.java</url>
-          <line>95</line>
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/shipGame/runGame.java</url>
-          <line>97</line>
-          <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/shipGame/battleShip.java</url>
