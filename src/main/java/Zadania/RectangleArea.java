@@ -1,11 +1,12 @@
 package Zadania;
 
 import java.io.BufferedReader;
+import java.io.IOException;
 import java.io.InputStreamReader;
 
 
 public class RectangleArea {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) throws IOException {
      try {
 
          BufferedReader wr = new BufferedReader(new InputStreamReader(System.in));
@@ -17,8 +18,8 @@ public class RectangleArea {
 
          System.out.println("Pole to = : " + result);
      }
-     catch (Exception e ) {
-         System.out.println("Nieporawny typ danych uzyj  , zamiast .");
+     catch (NumberFormatException e ) {
+         System.out.println("Nieporawny typ danych blad 404.");
      }
     }
 

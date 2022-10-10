@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a54b9fe-f893-42b5-8059-703a11b5ad66" name="Changes" comment="message">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania/KulaV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania/PI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania/PowPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania/RectangleArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania/SumDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania/FunctionSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania/FunctionSquareSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania/Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania/Loop1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania/LoopSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania/Lotto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania/TriangleChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/shipGame/battleShip.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Zadania/RectangleArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Zadania/RectangleArea.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +27,7 @@
         <option value="JUnit5 Test Class" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -57,20 +61,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="dziedziczenieDwa" />
@@ -84,10 +89,13 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="Wyjatki" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Zadania" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.SumDifference">
-    <configuration name="KulaV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadania.KulaV" />
+  <component name="RunManager" selected="Application.LoopSum">
+    <configuration name="FunctionSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadania.FunctionSquare" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
@@ -99,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadania.PI" />
+    <configuration name="Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadania.Loop" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
@@ -112,8 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadania.PowPI" />
+    <configuration name="Loop1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadania.Loop1" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
@@ -125,8 +133,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectangleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadania.RectangleArea" />
+    <configuration name="LoopSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadania.LoopSum" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
@@ -138,8 +146,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadania.SumDifference" />
+    <configuration name="Lotto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadania.Lotto" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
@@ -153,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SumDifference" />
-        <item itemvalue="Application.KulaV" />
-        <item itemvalue="Application.PowPI" />
-        <item itemvalue="Application.PI" />
-        <item itemvalue="Application.RectangleArea" />
+        <item itemvalue="Application.LoopSum" />
+        <item itemvalue="Application.Loop1" />
+        <item itemvalue="Application.Loop" />
+        <item itemvalue="Application.Lotto" />
+        <item itemvalue="Application.FunctionSquare" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +304,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660748339838</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="message">
+      <created>1665332404691</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1665332404691</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -431,11 +446,11 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/jacekGit$runGame.ic" NAME="runGame Coverage Results" MODIFIED="1659625980579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>shipGame.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/JacaAcademy$javaStart_SumArreyNumbers.ic" NAME="javaStart.SumArreyNumbers Coverage Results" MODIFIED="1655929640077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>javaStart.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/jacekGit$runGame.ic" NAME="runGame Coverage Results" MODIFIED="1659625980579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>shipGame.*</FILTER>
     </SUITE>
   </component>
 </project>
