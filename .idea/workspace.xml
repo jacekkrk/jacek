@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a54b9fe-f893-42b5-8059-703a11b5ad66" name="Changes" comment="message">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanko.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/inne/AutoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/inne/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania/KulaV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania/PI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania/PowPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania/RectangleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania/SumDifference.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/shipGame/runGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/shipGame/battleShip.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,13 +85,13 @@
       <recent name="Wyjatki" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Calc">
-    <configuration name="Calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaStart.inne.Calc" />
+  <component name="RunManager" selected="Application.SumDifference">
+    <configuration name="KulaV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadania.KulaV" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaStart.inne.*" />
+          <option name="PATTERN" value="Zadania.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,26 +99,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="JacaAcademy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Zadanko" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadanko" />
-      <module name="JacaAcademy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaStart.inne.testClass" />
+    <configuration name="PI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadania.PI" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaStart.inne.*" />
+          <option name="PATTERN" value="Zadania.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PowPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadania.PowPI" />
+      <module name="JacaAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zadania.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectangleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadania.RectangleArea" />
+      <module name="JacaAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zadania.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadania.SumDifference" />
+      <module name="JacaAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zadania.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,10 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Calc" />
-        <item itemvalue="Application.Zadanko" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.testClass" />
+        <item itemvalue="Application.SumDifference" />
+        <item itemvalue="Application.KulaV" />
+        <item itemvalue="Application.PowPI" />
+        <item itemvalue="Application.PI" />
+        <item itemvalue="Application.RectangleArea" />
       </list>
     </recent_temporary>
   </component>
@@ -364,21 +392,6 @@
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/shipGame/battleShip.java</url>
-          <line>82</line>
-          <option name="timeStamp" value="58" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/shipGame/battleShip.java</url>
-          <line>106</line>
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/shipGame/battleShip.java</url>
-          <line>88</line>
-          <option name="timeStamp" value="61" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Zadanko.java</url>
           <line>18</line>
           <option name="timeStamp" value="62" />
@@ -418,11 +431,11 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/JacaAcademy$javaStart_SumArreyNumbers.ic" NAME="javaStart.SumArreyNumbers Coverage Results" MODIFIED="1655929640077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>javaStart.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/jacekGit$runGame.ic" NAME="runGame Coverage Results" MODIFIED="1659625980579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>shipGame.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JacaAcademy$javaStart_SumArreyNumbers.ic" NAME="javaStart.SumArreyNumbers Coverage Results" MODIFIED="1655929640077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>javaStart.*</FILTER>
     </SUITE>
   </component>
 </project>
