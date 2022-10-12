@@ -8,8 +8,6 @@ class Main3Test {
 
 @Test
     void checkerDaySeven() {
-    var sprawdz = new Main3.getDayOfWeekName(1);
-    sprawdz.
 }
 
 }
