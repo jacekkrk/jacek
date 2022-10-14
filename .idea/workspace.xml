@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a54b9fe-f893-42b5-8059-703a11b5ad66" name="Changes" comment="koniec na dzis">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania/Point/AddMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania/Point/BombelkowySort.java" afterDir="false" />
+    <list default="true" id="3a54b9fe-f893-42b5-8059-703a11b5ad66" name="Changes" comment="Fight">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania/Point/BubleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania/Point/MatrixRing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ZadaniaPart1/MyArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +20,6 @@
       <list>
         <option value="JUnit5 Test Class" />
         <option value="Interface" />
-        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -56,7 +56,6 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -86,9 +85,9 @@
       <recent name="Zadania" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AddMatrix">
-    <configuration name="AddMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadania.Point.AddMatrix" />
+  <component name="RunManager" selected="Application.MyArrayList">
+    <configuration name="BubleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadania.Point.BubleSort" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BombelkowySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadania.Point.BombelkowySort" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadania.Point.Main" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
@@ -113,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadania.Loop" />
+    <configuration name="MatrixInvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadania.MatrixInvert" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
@@ -126,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loop1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadania.Loop1" />
+    <configuration name="MatrixRing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadania.Point.MatrixRing" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Zadania.*" />
+          <option name="PATTERN" value="Zadania.Point.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadania.LoopSum" />
+    <configuration name="MyArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZadaniaPart1.MyArrayList" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Zadania.*" />
+          <option name="PATTERN" value="ZadaniaPart1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AddMatrix" />
-        <item itemvalue="Application.BombelkowySort" />
-        <item itemvalue="Application.LoopSum" />
-        <item itemvalue="Application.Loop1" />
-        <item itemvalue="Application.Loop" />
+        <item itemvalue="Application.MyArrayList" />
+        <item itemvalue="Application.BubleSort" />
+        <item itemvalue="Application.MatrixRing" />
+        <item itemvalue="Application.MatrixInvert" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -297,19 +296,19 @@
       <option name="project" value="LOCAL" />
       <updated>1660748339838</updated>
     </task>
-    <task id="LOCAL-00019" summary="message">
-      <created>1665332404691</created>
+    <task id="LOCAL-00019" summary="homework">
+      <created>1665410979295</created>
       <option name="number" value="00019" />
       <option name="presentableId" value="LOCAL-00019" />
       <option name="project" value="LOCAL" />
-      <updated>1665332404691</updated>
+      <updated>1665410979295</updated>
     </task>
-    <task id="LOCAL-00020" summary="koniec na dzis">
-      <created>1665443551604</created>
+    <task id="LOCAL-00020" summary="Fight">
+      <created>1665571934201</created>
       <option name="number" value="00020" />
       <option name="presentableId" value="LOCAL-00020" />
       <option name="project" value="LOCAL" />
-      <updated>1665443551605</updated>
+      <updated>1665571934201</updated>
     </task>
     <option name="localTasksCounter" value="21" />
     <servers />
@@ -351,8 +350,9 @@
     <MESSAGE value="ZLE DODAJE STATKI POZIOMO" />
     <MESSAGE value="statki dzialaja" />
     <MESSAGE value="message" />
-    <MESSAGE value="koniec na dzis" />
-    <option name="LAST_COMMIT_MESSAGE" value="koniec na dzis" />
+    <MESSAGE value="homework" />
+    <MESSAGE value="Fight" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fight" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -413,19 +413,29 @@
           <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Zadania/Point/BombelkowySort.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="63" />
+          <url>file://$PROJECT_DIR$/src/main/java/Zadania/MatrixInvert.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Zadania/Point/BombelkowySort.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="64" />
+          <url>file://$PROJECT_DIR$/src/main/java/Zadania/MatrixInvert.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="68" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Zadania/Point/AddMatrix.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="65" />
+          <url>file://$PROJECT_DIR$/src/main/java/Zadania/Point/MatrixRing.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Zadania/Point/BubleSort.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ZadaniaPart1/MyArrayList.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="75" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/javaStart/Car.java</url>
@@ -454,7 +464,6 @@
         <watch expression="getedStartPiont[1]" language="JAVA" />
         <watch expression="this" />
         <watch expression="battleFiled[0]" language="JAVA" />
-        <watch expression="arrA" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
@@ -463,11 +472,11 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/JacaAcademy$javaStart_SumArreyNumbers.ic" NAME="javaStart.SumArreyNumbers Coverage Results" MODIFIED="1655929640077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>javaStart.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/jacekGit$runGame.ic" NAME="runGame Coverage Results" MODIFIED="1659625980579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>shipGame.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JacaAcademy$javaStart_SumArreyNumbers.ic" NAME="javaStart.SumArreyNumbers Coverage Results" MODIFIED="1655929640077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>javaStart.*</FILTER>
     </SUITE>
   </component>
 </project>
