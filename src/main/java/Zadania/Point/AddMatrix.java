@@ -10,7 +10,7 @@ public class AddMatrix {
 
     public static void main(String[] args) {
        for (int a =0 ; a < arrA.length; a++){
-           Arrays.fill(arrA[], 1);
+
        }
 
 

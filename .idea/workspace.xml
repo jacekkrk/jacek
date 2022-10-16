@@ -5,10 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a54b9fe-f893-42b5-8059-703a11b5ad66" name="Changes" comment="Fight">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania/Point/BubleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania/Point/MatrixRing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ZadaniaPart1/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyInterface/BickeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyInterface/BikeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyInterface/ConsoleLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyInterface/FileLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyInterface/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyInterface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyInterface/Pracownik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyInterface/nazwaInterfejsu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/DiscountApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/DiscountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/ShowClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/loops/execiseOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Zadania/Point/AddMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Zadania/Point/AddMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Zadanko.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Zadanko.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +40,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/Wyjatki/FileRead.java" root0="FORCE_HIGHLIGHTING" />
@@ -61,6 +76,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/KubaG/IdeaProjects/jacek/src/main/java/interface&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -72,6 +88,9 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="dziedziczenieDwa" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\KubaG\IdeaProjects\jacek\src\main\java\interface" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
@@ -82,16 +101,43 @@
       <recent name="Wyjatki" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="MyInterface" />
       <recent name="Zadania" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyArrayList">
-    <configuration name="BubleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadania.Point.BubleSort" />
+  <component name="RunManager" selected="Application.DiscountApp">
+    <configuration name="BickeFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyInterface.BickeFactory" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Zadania.Point.*" />
+          <option name="PATTERN" value="MyInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscountApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myJavaStart.DiscountApp" />
+      <module name="JacaAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myJavaStart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyInterface.Main" />
+      <module name="JacaAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,11 +146,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadania.Point.Main" />
+      <option name="MAIN_CLASS_NAME" value="MyInterface.Main" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Zadania.Point.*" />
+          <option name="PATTERN" value="MyInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,38 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatrixInvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadania.MatrixInvert" />
+    <configuration name="MyInterface.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyInterface.Main" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Zadania.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MatrixRing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadania.Point.MatrixRing" />
-      <module name="JacaAcademy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Zadania.Point.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ZadaniaPart1.MyArrayList" />
-      <module name="JacaAcademy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ZadaniaPart1.*" />
+          <option name="PATTERN" value="MyInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyArrayList" />
-        <item itemvalue="Application.BubleSort" />
-        <item itemvalue="Application.MatrixRing" />
-        <item itemvalue="Application.MatrixInvert" />
+        <item itemvalue="Application.DiscountApp" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.BickeFactory" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.MyInterface.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -434,7 +454,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/ZadaniaPart1/MyArrayList.java</url>
-          <line>12</line>
+          <line>11</line>
           <option name="timeStamp" value="75" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
