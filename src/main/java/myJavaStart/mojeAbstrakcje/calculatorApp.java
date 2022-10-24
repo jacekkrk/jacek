@@ -1,10 +1,8 @@
 package myJavaStart.mojeAbstrakcje;
 
-import java.sql.SQLOutput;
 import java.util.InputMismatchException;
-import java.util.Objects;
 import java.util.Scanner;
-import java.util.SortedMap;
+
 
 public class calculatorApp {
     public static void main(String[] args) {
@@ -61,10 +59,15 @@ public class calculatorApp {
                     Schape circle = new Circle(r);
                     makeCalc(circle);
                     break;
+                default:
+                    System.out.println("wpisz nazwe figury");
             }
 
         } catch (InputMismatchException e) {
             System.err.println("Wpisales cos zle uruchom jeszcze raz program");
+        }
+        finally {
+            sc.close();
         }
 
 
