@@ -32,7 +32,7 @@ public class serwisLogic extends dataBase {
           choiced.iterator();
 
 
-
+            return "a";
         }
 
 

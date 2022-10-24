@@ -5,59 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a54b9fe-f893-42b5-8059-703a11b5ad66" name="Changes" comment="Fight">
-      <change afterPath="$PROJECT_DIR$/src/main/java/fiszkoteka/dataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fiszkoteka/serwisLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fiszkoteka/userStatistic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/Boat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/MotorBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/WheledVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/paramorfizm/ArrejList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/paramorfizm/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/paramorfizm/Dziekanat/DziekanatApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/paramorfizm/Dziekanat/Dzienny.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/paramorfizm/Dziekanat/Kierunek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/paramorfizm/Dziekanat/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/paramorfizm/Dziekanat/Zaoczny.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/paramorfizm/Hospital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/paramorfizm/HospitalApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/paramorfizm/Nurse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/paramorfizm/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/paramorfizm/enumek/Producent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/paramorfizm/enumek/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/paramorfizm/enumek/Size.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/paramorfizm/enumek/Tshirt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/paramorfizm/enumek/ZadanieStringi/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/paramorfizm/enumek/ZadanieStringi/DataStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/paramorfizm/enumek/ZadanieStringi/Notebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/superek/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/superek/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/superek/testClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/zadanie/ExhaustPart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/zadanie/Parts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/zadanie/Tire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/Dziedziczenie/zadanie/testApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/loops/Szpital/Hospital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/loops/Szpital/HospitalApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/loops/Szpital/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/objecty/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/objecty/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/objecty/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/statyczne/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/statyczne/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/statyczne/PrintNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/statyczne/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/statyczne/University.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/statyczne/World.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/statyczne/calcTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/wypozyczalniaRowerow/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/wypozyczalniaRowerow/RentSerwis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/wypozyczalniaRowerow/rentApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fiszkoteka/Babcia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fiszkoteka/Dziadek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/mojeAbstrakcje/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/mojeAbstrakcje/Fabryka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/mojeAbstrakcje/Farby.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/mojeAbstrakcje/Hi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/mojeAbstrakcje/Lakier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/mojeAbstrakcje/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/mojeAbstrakcje/Samochod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/mojeAbstrakcje/Schape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/mojeAbstrakcje/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/mojeAbstrakcje/calculatorApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/myJavaStart/loops/execiseOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/loops/execiseOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/myJavaStart/loops/loopOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/loops/loopOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fiszkoteka/serwisLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fiszkoteka/serwisLogic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +29,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -122,6 +83,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="myJavaStart.mojeAbstrakcje" />
       <recent name="dziedziczenieDwa" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -144,13 +106,13 @@
       <recent name="Zadania" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.serwisLogic">
-    <configuration name="ArrejList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myJavaStart.Dziedziczenie.paramorfizm.ArrejList" />
+  <component name="RunManager" selected="Application.calculatorApp">
+    <configuration name="Babcia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fiszkoteka.Babcia" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myJavaStart.Dziedziczenie.paramorfizm.*" />
+          <option name="PATTERN" value="fiszkoteka.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DziekanatApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myJavaStart.Dziedziczenie.paramorfizm.Dziekanat.DziekanatApp" />
+    <configuration name="Fabryka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myJavaStart.mojeAbstrakcje.Fabryka" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myJavaStart.Dziedziczenie.paramorfizm.Dziekanat.*" />
+          <option name="PATTERN" value="myJavaStart.mojeAbstrakcje.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myJavaStart.Dziedziczenie.paramorfizm.enumek.Shop" />
+    <configuration name="calculatorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myJavaStart.mojeAbstrakcje.calculatorApp" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myJavaStart.Dziedziczenie.paramorfizm.enumek.*" />
+          <option name="PATTERN" value="myJavaStart.mojeAbstrakcje.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.calculatorApp" />
+        <item itemvalue="Application.Fabryka" />
+        <item itemvalue="Application.Babcia" />
         <item itemvalue="Application.serwisLogic" />
         <item itemvalue="Application.Notebook" />
-        <item itemvalue="Application.ArrejList" />
-        <item itemvalue="Application.DziekanatApp" />
-        <item itemvalue="Application.Shop" />
       </list>
     </recent_temporary>
   </component>
@@ -376,7 +338,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665953291277</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Fight">
+      <created>1666453082472</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1666453082472</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -518,6 +487,11 @@
           <line>7</line>
           <option name="timeStamp" value="82" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/myJavaStart/mojeAbstrakcje/Schape.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/javaStart/Car.java</url>
           <line>8</line>
@@ -570,6 +544,9 @@
     </SUITE>
     <SUITE FILE_PATH="coverage/JacaAcademy$javaStart_SumArreyNumbers.ic" NAME="javaStart.SumArreyNumbers Coverage Results" MODIFIED="1655929640077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>javaStart.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/jacek$calculatorApp.ic" NAME="calculatorApp Coverage Results" MODIFIED="1666607017629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>myJavaStart.mojeAbstrakcje.*</FILTER>
     </SUITE>
   </component>
 </project>
