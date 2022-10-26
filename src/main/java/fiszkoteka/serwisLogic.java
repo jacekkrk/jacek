@@ -31,8 +31,8 @@ public class serwisLogic extends dataBase {
           choiced.add(words);
           choiced.iterator();
 
-
-            return "a";
+            return " ";
+            //return "a";
         }
 
 
