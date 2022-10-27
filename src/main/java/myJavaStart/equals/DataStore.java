@@ -3,7 +3,7 @@ package myJavaStart.equals;
 public class DataStore {
 
 
-    Computer[] computerData = new Computer[10];
+    Computer[] computerData = new Computer[100];
     private int i = 0;
 
     void add(String name, int model) {
