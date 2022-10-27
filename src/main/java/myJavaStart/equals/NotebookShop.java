@@ -9,7 +9,10 @@ public class NotebookShop {
         sklep.add("Optius", 1);
         sklep.add("makus", 2);
         sklep.add("zeno", 6);
+        sklep.add("Optius", 1);
+        sklep.add("Optius", 1);
         sklep.showCoputer();
+        sklep.checkAvailability(new Computer("Optius", 1));
     }
 
 }

@@ -5,33 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a54b9fe-f893-42b5-8059-703a11b5ad66" name="Changes" comment="koniec na dzis">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania1/ArrayListTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania1/ArrayLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania1/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania1/accesModiffers/App/PointAplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania1/accesModiffers/App/PointControler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania1/accesModiffers/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania1/objectProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania1/rectangleS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zadania1/testApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fiszkoteka/UnknownOperatorException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/klasyAbstrakcyjne/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/klasyAbstrakcyjne/EvenAdder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/klasyAbstrakcyjne/LoopEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/klasyAbstrakcyjne/Plane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/klasyAbstrakcyjne/SpeedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javaStart/klasyAbstrakcyjne/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/equals/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/equals/DataStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/equals/NotebookShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/kolejneAuto/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/kolejneAuto/CalculatorLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/kolejneAuto/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/kolejneAuto/testCar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Zadania/Point/AddMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fiszkoteka/serwisLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fiszkoteka/serwisLogic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaStart/korpo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaStart/korpo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/myJavaStart/equals/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/equals/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/myJavaStart/equals/DataStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/equals/DataStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/myJavaStart/equals/NotebookShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/equals/NotebookShop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -335,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665443551605</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="koniec na dzis">
+      <created>1666828384023</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1666828384024</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

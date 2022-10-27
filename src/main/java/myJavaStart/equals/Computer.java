@@ -31,4 +31,20 @@ public class Computer {
                 ", model=" + model +
                 '}';
     }
+
+    public String getProducer() {
+        return producer;
+    }
+
+    public void setProducer(String producer) {
+        this.producer = producer;
+    }
+
+    public int getModel() {
+        return model;
+    }
+
+    public void setModel(int model) {
+        this.model = model;
+    }
 }

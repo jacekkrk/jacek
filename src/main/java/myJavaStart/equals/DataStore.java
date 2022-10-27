@@ -15,10 +15,24 @@ public class DataStore {
 
     void showCoputer() {
         for (Computer computerDatum : computerData) {
-            if (computerDatum.toString() != null) {
+            if (computerDatum == null)
+            break;
+            else {
                 System.out.println(computerDatum);
             }
-            else System.out.println("pyu");
         }
+
     }
-}
+    void checkAvailability(Computer komp){
+        int coputerStos = 0;
+        for (Computer computerDatum : computerData) {
+            if (computerDatum == null)
+                break;
+            else if(computerDatum.equals(komp)) coputerStos++;
+
+            }
+        System.out.println("Komputerow takich samych jest = " + coputerStos);
+        }
+
+    }
+
