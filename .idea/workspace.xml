@@ -4,10 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a54b9fe-f893-42b5-8059-703a11b5ad66" name="Changes" comment="koniec na dzis">
-      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/equals/FiveWords.java" afterDir="false" />
+    <list default="true" id="3a54b9fe-f893-42b5-8059-703a11b5ad66" name="Changes" comment="zadanie">
+      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/enumZadanie/KlasaAnonimowa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/enumZadanie/KlasaAnonimowa/Sortable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/enumZadanie/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/enumZadanie/Pizzeria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/pliki/FileCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/pliki/FileReaderMy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/pliki/myFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/pliki/testClas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/pliki/tworzPlik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/pliki/writterMy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/myJavaStart/equals/DataStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/equals/DataStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/myJavaStart/mojeAbstrakcje/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/mojeAbstrakcje/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/myJavaStart/mojeAbstrakcje/calculatorApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/myJavaStart/mojeAbstrakcje/calculatorApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +28,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
-        <option value="Interface" />
         <option value="HTML File" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -86,13 +96,13 @@
       <recent name="Zadania" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FiveWords">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myJavaStart.kolejneAuto.Calculator" />
+  <component name="RunManager" selected="Application.writterMy">
+    <configuration name="FileCreator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myJavaStart.pliki.FileCreator" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myJavaStart.kolejneAuto.*" />
+          <option name="PATTERN" value="myJavaStart.pliki.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenAdder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaStart.klasyAbstrakcyjne.EvenAdder" />
+    <configuration name="FileReaderMy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myJavaStart.pliki.FileReaderMy" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaStart.klasyAbstrakcyjne.*" />
+          <option name="PATTERN" value="myJavaStart.pliki.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FiveWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myJavaStart.equals.FiveWords" />
+    <configuration name="calculatorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myJavaStart.mojeAbstrakcje.calculatorApp" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myJavaStart.equals.*" />
+          <option name="PATTERN" value="myJavaStart.mojeAbstrakcje.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NotebookShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myJavaStart.equals.NotebookShop" />
+    <configuration name="testClas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myJavaStart.pliki.testClas" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myJavaStart.equals.*" />
+          <option name="PATTERN" value="myJavaStart.pliki.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testCar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myJavaStart.kolejneAuto.testCar" />
+    <configuration name="writterMy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myJavaStart.pliki.writterMy" />
       <module name="JacaAcademy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myJavaStart.kolejneAuto.*" />
+          <option name="PATTERN" value="myJavaStart.pliki.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FiveWords" />
-        <item itemvalue="Application.NotebookShop" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.testCar" />
-        <item itemvalue="Application.EvenAdder" />
+        <item itemvalue="Application.writterMy" />
+        <item itemvalue="Application.testClas" />
+        <item itemvalue="Application.FileReaderMy" />
+        <item itemvalue="Application.FileCreator" />
+        <item itemvalue="Application.calculatorApp" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666830288406</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="zadanie">
+      <created>1666845422063</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1666845422063</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -366,7 +383,8 @@
     <MESSAGE value="statki dzialaja" />
     <MESSAGE value="message" />
     <MESSAGE value="koniec na dzis" />
-    <option name="LAST_COMMIT_MESSAGE" value="koniec na dzis" />
+    <MESSAGE value="zadanie" />
+    <option name="LAST_COMMIT_MESSAGE" value="zadanie" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -460,6 +478,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/myJavaStart/equals/FiveWords.java</url>
           <line>12</line>
           <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/myJavaStart/enumZadanie/KlasaAnonimowa/Main.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="88" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/javaStart/Car.java</url>

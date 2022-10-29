@@ -19,11 +19,5 @@ public class Circle implements Schape, Hi{
         this.r = r;
     }
 
-    public double getR() {
-        return r;
-    }
 
-    public void setR(double r) {
-        this.r = r;
-    }
 }

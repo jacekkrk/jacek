@@ -30,7 +30,7 @@ public class calculatorApp {
     void makeCalc(Schape e) {
         double perimiter = e.calculatePerimeter();
         double area = e.calculateArea();
-        System.out.printf("%s %.2f %s %.2f\n" , "Pole trojkata wynoi ", area , " Obwod wynosi ", perimiter );
+        System.out.printf("%s %.2f %s %.2f\n" , "Pole figury wynoi ", area , " Obwod figury ", perimiter );
 
     }
 
